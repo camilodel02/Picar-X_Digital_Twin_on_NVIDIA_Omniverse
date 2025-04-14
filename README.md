@@ -3,7 +3,7 @@ Picar-X is a robotic car widely used for research and educational purposes. I de
 
 This repository contains everything needed to enable the extension in NVIDIA Omniverse, including the extension.py file, which serves as the core of the extension's functionality.
 
-To access the extension code script click on this: [extension.py](./extension.py)
+To access the extension code script click on this: [extension.py](./exts/camilo.picar.28/camilo/picar/28/extension.py)
 
 ## System Framework Preview
 ![Preview](https://github.com/camilodel02/Picar-X-Nvidia-Omniverse-using-Mqtt/blob/main/DigitalTwin.png)
